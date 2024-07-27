@@ -1,4 +1,4 @@
-namespace BuffyBulkyWeb.Models
+namespace Bulky.Models
 {
     public class ErrorViewModel
     {

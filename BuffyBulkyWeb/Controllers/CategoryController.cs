@@ -1,5 +1,5 @@
-﻿using BuffyBulkyWeb.Data;
-using BuffyBulkyWeb.Models;
+﻿using Bulky.DataAccess.Data;
+using Bulky.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BuffyBulkyWeb.Controllers
