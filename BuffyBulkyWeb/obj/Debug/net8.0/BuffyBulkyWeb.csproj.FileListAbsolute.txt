@@ -257,3 +257,6 @@ C:\Users\vyom0\source\repos\BuffyBulky\BuffyBulkyWeb\obj\Debug\net8.0\refint\Buf
 C:\Users\vyom0\source\repos\BuffyBulky\BuffyBulkyWeb\obj\Debug\net8.0\BuffyBulkyWeb.pdb
 C:\Users\vyom0\source\repos\BuffyBulky\BuffyBulkyWeb\obj\Debug\net8.0\BuffyBulkyWeb.genruntimeconfig.cache
 C:\Users\vyom0\source\repos\BuffyBulky\BuffyBulkyWeb\obj\Debug\net8.0\ref\BuffyBulkyWeb.dll
+C:\Users\vyom0\source\repos\BuffyBulky\BuffyBulkyWeb\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\vyom0\source\repos\BuffyBulky\BuffyBulkyWeb\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\vyom0\source\repos\BuffyBulky\BuffyBulkyWeb\obj\Debug\net8.0\BuffyBulkyWeb.MvcApplicationPartsAssemblyInfo.cs

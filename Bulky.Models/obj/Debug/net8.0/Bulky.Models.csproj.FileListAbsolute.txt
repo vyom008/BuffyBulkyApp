@@ -10,3 +10,4 @@ C:\Users\vyom0\source\repos\BuffyBulky\Bulky.Models\obj\Debug\net8.0\Bulky.Model
 C:\Users\vyom0\source\repos\BuffyBulky\Bulky.Models\obj\Debug\net8.0\refint\Bulky.Models.dll
 C:\Users\vyom0\source\repos\BuffyBulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.pdb
 C:\Users\vyom0\source\repos\BuffyBulky\Bulky.Models\obj\Debug\net8.0\ref\Bulky.Models.dll
+C:\Users\vyom0\source\repos\BuffyBulky\Bulky.Models\obj\Debug\net8.0\Bulky.Models.csproj.AssemblyReference.cache
