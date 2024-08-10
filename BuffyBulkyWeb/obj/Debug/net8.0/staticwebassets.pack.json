@@ -25,10 +25,6 @@
       "PackagePath": "staticwebassets\\images\\product\\3ee9a0d1-fe79-4b70-9597-885598d6fd40.jpg"
     },
     {
-      "Id": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\images\\product\\67b10901-89a8-49ec-b2f7-b65d63ae299e.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\67b10901-89a8-49ec-b2f7-b65d63ae299e.jpg"
-    },
-    {
       "Id": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\images\\product\\6be8c3d2-614f-42e2-a144-e93f553ac7b2.jpg",
       "PackagePath": "staticwebassets\\images\\product\\6be8c3d2-614f-42e2-a144-e93f553ac7b2.jpg"
     },
@@ -43,6 +39,10 @@
     {
       "Id": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\images\\product\\f0dba717-7c95-44ac-b828-e6295670555c.jpg",
       "PackagePath": "staticwebassets\\images\\product\\f0dba717-7c95-44ac-b828-e6295670555c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
     },
     {
       "Id": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\js\\site.js",
