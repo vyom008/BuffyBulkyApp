@@ -83,15 +83,26 @@ namespace BuffyBulkyWeb.Areas.Admin.Controllers
                 if(productVM.Product.Id == 0)
                 {
                     _unitOfWork.Product.Add(productVM.Product);
+
+                    //*****I updated this myself, if incase have to go back to original - Delete or comment out below*****
+                    _unitOfWork.Save();
+                    TempData["success"] = "Product created successfully";
+                    return RedirectToAction("Index");
                 }
                 else
                 {
                     _unitOfWork.Product.Update(productVM.Product);
+
+                    //*****I updated this myself, if incase have to go back to original - Delete or comment out below*****
+                    _unitOfWork.Save();
+                    TempData["success"] = "Product updated successfully";
+                    return RedirectToAction("Index");
                 }
-                
-                _unitOfWork.Save();
-                TempData["success"] = "Product created successfully";
-                return RedirectToAction("Index");
+
+                //*****I commented this myself, if incase have to go back to original uncomment below and comment out above*****
+                //_unitOfWork.Save();
+                //TempData["success"] = "Product created successfully";
+                //return RedirectToAction("Index");
             }
             else
             {

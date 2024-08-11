@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BuffyBulkyWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b155f8e1e2b7354982841601281678c16e259270")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+944d4f5be4804957829ce2e29b0c098f1c8091aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("BuffyBulkyWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BuffyBulkyWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

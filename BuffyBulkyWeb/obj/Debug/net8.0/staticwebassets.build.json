@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4ruhSMwCtCMFTCaTHYnd2ueykrREwVFjxcXtMGR8bbk=",
+  "Hash": "LIOz5fD4VmTce781lVwFBRgpDO61eKD6cLN9NkYPLF8=",
   "Source": "BuffyBulkyWeb",
   "BasePath": "_content/BuffyBulkyWeb",
   "Mode": "Default",
@@ -93,12 +93,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\images\\product\\072f21ef-dc5c-4022-908f-1aae73916462.jpg",
+      "Identity": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\images\\product\\0066e613-d33b-4602-ac8e-df7622c7eefa.jpg",
       "SourceId": "BuffyBulkyWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\",
       "BasePath": "_content/BuffyBulkyWeb",
-      "RelativePath": "images/product/072f21ef-dc5c-4022-908f-1aae73916462.jpg",
+      "RelativePath": "images/product/0066e613-d33b-4602-ac8e-df7622c7eefa.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,15 +109,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\072f21ef-dc5c-4022-908f-1aae73916462.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product\\0066e613-d33b-4602-ac8e-df7622c7eefa.jpg"
     },
     {
-      "Identity": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\images\\product\\22d649ab-4abf-473f-8d73-a2af5c25ad6a.jpg",
+      "Identity": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\images\\product\\6f71d691-df0f-47b1-8002-8d66aa348b43.jpg",
       "SourceId": "BuffyBulkyWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\",
       "BasePath": "_content/BuffyBulkyWeb",
-      "RelativePath": "images/product/22d649ab-4abf-473f-8d73-a2af5c25ad6a.jpg",
+      "RelativePath": "images/product/6f71d691-df0f-47b1-8002-8d66aa348b43.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\22d649ab-4abf-473f-8d73-a2af5c25ad6a.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product\\6f71d691-df0f-47b1-8002-8d66aa348b43.jpg"
     },
     {
-      "Identity": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\images\\product\\3ee9a0d1-fe79-4b70-9597-885598d6fd40.jpg",
+      "Identity": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\images\\product\\849f2418-beca-423d-b8d4-9ae46cf83986.jpg",
       "SourceId": "BuffyBulkyWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\",
       "BasePath": "_content/BuffyBulkyWeb",
-      "RelativePath": "images/product/3ee9a0d1-fe79-4b70-9597-885598d6fd40.jpg",
+      "RelativePath": "images/product/849f2418-beca-423d-b8d4-9ae46cf83986.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,15 +147,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\3ee9a0d1-fe79-4b70-9597-885598d6fd40.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product\\849f2418-beca-423d-b8d4-9ae46cf83986.jpg"
     },
     {
-      "Identity": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\images\\product\\6be8c3d2-614f-42e2-a144-e93f553ac7b2.jpg",
+      "Identity": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\images\\product\\a08c6fd2-2b19-4ea0-badd-64a6f4912ac9.jpg",
       "SourceId": "BuffyBulkyWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\",
       "BasePath": "_content/BuffyBulkyWeb",
-      "RelativePath": "images/product/6be8c3d2-614f-42e2-a144-e93f553ac7b2.jpg",
+      "RelativePath": "images/product/a08c6fd2-2b19-4ea0-badd-64a6f4912ac9.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -166,15 +166,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\6be8c3d2-614f-42e2-a144-e93f553ac7b2.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product\\a08c6fd2-2b19-4ea0-badd-64a6f4912ac9.jpg"
     },
     {
-      "Identity": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\images\\product\\acc47aef-0e4b-43e5-8546-ab56aa13216a.jpg",
+      "Identity": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\images\\product\\da4db28f-4bf8-4176-918f-d86bb6617437.jpg",
       "SourceId": "BuffyBulkyWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\",
       "BasePath": "_content/BuffyBulkyWeb",
-      "RelativePath": "images/product/acc47aef-0e4b-43e5-8546-ab56aa13216a.jpg",
+      "RelativePath": "images/product/da4db28f-4bf8-4176-918f-d86bb6617437.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,15 +185,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\acc47aef-0e4b-43e5-8546-ab56aa13216a.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product\\da4db28f-4bf8-4176-918f-d86bb6617437.jpg"
     },
     {
-      "Identity": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\images\\product\\cae86ffc-2c54-4179-adfd-43c5204e1b17.jpg",
+      "Identity": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\images\\product\\fde806d0-87b5-4377-b296-42d8a5dee979.jpg",
       "SourceId": "BuffyBulkyWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\",
       "BasePath": "_content/BuffyBulkyWeb",
-      "RelativePath": "images/product/cae86ffc-2c54-4179-adfd-43c5204e1b17.jpg",
+      "RelativePath": "images/product/fde806d0-87b5-4377-b296-42d8a5dee979.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -204,26 +204,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\cae86ffc-2c54-4179-adfd-43c5204e1b17.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\images\\product\\f0dba717-7c95-44ac-b828-e6295670555c.jpg",
-      "SourceId": "BuffyBulkyWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\",
-      "BasePath": "_content/BuffyBulkyWeb",
-      "RelativePath": "images/product/f0dba717-7c95-44ac-b828-e6295670555c.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\f0dba717-7c95-44ac-b828-e6295670555c.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product\\fde806d0-87b5-4377-b296-42d8a5dee979.jpg"
     },
     {
       "Identity": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\js\\product.js",
