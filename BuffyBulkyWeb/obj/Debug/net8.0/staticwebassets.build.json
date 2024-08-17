@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5bU1K93bmEGMLtPa4mmaY0IqyPlIm9fo/u6pFMZHDRM=",
+  "Hash": "jqjpIoubrSy9AU9GYKLp30QXHC2bAk2KolOBAR/O4JI=",
   "Source": "BuffyBulkyWeb",
   "BasePath": "_content/BuffyBulkyWeb",
   "Mode": "Default",
@@ -1345,6 +1345,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\fde806d0-87b5-4377-b296-42d8a5dee979.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\js\\company.js",
+      "SourceId": "BuffyBulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BuffyBulkyWeb",
+      "RelativePath": "js/company.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\company.js"
     },
     {
       "Identity": "C:\\Users\\vyom0\\source\\repos\\BuffyBulky\\BuffyBulkyWeb\\wwwroot\\js\\product.js",
